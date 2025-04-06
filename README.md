@@ -1,4 +1,4 @@
 # Ingatlanhirdető Weboldal
 To run:
   npm install
-  node start
+  npm run dev
